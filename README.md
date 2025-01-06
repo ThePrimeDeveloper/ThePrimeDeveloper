@@ -35,7 +35,7 @@ I am a seasoned developer with expertise in **Python, C++, Rust, and Go**. With 
 
 ## Notable Programs
 
-### **socials.py**
+### **Hacking Simulation: Social Edition**
 - **Description:** A Python program designed to simulate a hacking process, providing an engaging experience for users to retrieve my social media links. This project showcases the use of **ANSI escape codes**, **progress bar animations**, and **interactive user input**.
 - **Link:** [https://github.com/ThePrimeDeveloper/Socials](https://github.com/ThePrimeDeveloper/Socials)
 
