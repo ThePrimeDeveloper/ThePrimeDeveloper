@@ -18,7 +18,8 @@ I am a seasoned developer with expertise in **Python, C++, Rust, and Go**. With 
 
 ## Experience
 
-### **CEO** at **PRIMETEK INC.**, **Zurich, Switzerland** – **03/10/2020**
+### **CEO** at **PRIMETEK INC.**
+**Location:** **Zurich, Switzerland**
 - **Achievements:** 10,000 Active Users
 - **Projects:** Game Modifying Software
 
