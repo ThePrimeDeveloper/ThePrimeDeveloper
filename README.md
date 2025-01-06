@@ -1,4 +1,5 @@
-**[@ThePrimeDeveloper] - About ME**
+## Professional Developer
+**[@ThePrimeDeveloper]**
 
 ## About Me
 
