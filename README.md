@@ -9,7 +9,7 @@ I am a seasoned developer with expertise in **Python, C++, Rust, and Go**. With 
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, C++, Rust, Go
+- **Programming Languages:** Python, C++, C, Rust, Go
 - **Frameworks & Libraries:** Flask, React, Electron, Lightning
 - **Tools & Technologies:** Git, Docker, CI/CD, Linux, IDA Pro
 - **Databases:** MySQL, Supabase
