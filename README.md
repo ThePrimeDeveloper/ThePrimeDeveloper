@@ -3,7 +3,7 @@
 **Author:** [@ThePrimeDeveloper](https://github.com/ThePrimeDeveloper)
 
 ## 📌 About Me
-I am a seasoned developer with expertise in **Python, C++, Rust, and Go**. With over **5 years of experience**, I specialize in building scalable applications, optimizing performance, and delivering robust software solutions. I am passionate about writing clean, efficient code and thrive in dynamic, challenging environments.
+I am a seasoned developer with expertise in **Python, C++, C, Rust, and Go**. With over **5 years of experience**, I specialize in building scalable applications, optimizing performance, and delivering robust software solutions. I am passionate about writing clean, efficient code and thrive in dynamic, challenging environments.
 
 ---
 
@@ -66,7 +66,7 @@ This project is licensed under the **[MIT License](LICENSE)**.
 
 ## 🙏 Acknowledgments
 
-Special thanks to the **Python, Rust, and Go communities** for their invaluable resources and support.
+Special thanks to the **Python, Rust, C, and Go communities** for their invaluable resources and support.
 
 ---
 
